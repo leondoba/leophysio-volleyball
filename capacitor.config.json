@@ -1,0 +1,6 @@
+{
+  "appId": "com.leophysio.volleyball",
+  "appName": "Volley Physio",
+  "webDir": "www",
+  "android": { "backgroundColor": "#101A33" }
+}
